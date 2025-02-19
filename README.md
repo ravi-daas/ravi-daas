@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Praksha App(Flutter), Mern Stack E-commerce App & Invoicing Web Projects<br>I'm looking to collaborate on Open Source 
+I'm currently working on [Praksha App(Flutter)](https://play.google.com/store/apps/details?id=com.praksha.app), Mern Stack E-commerce App & Invoicing Web Projects<br>I'm looking to collaborate on Open Source 
 
 
 ## 🌐 Socials:
