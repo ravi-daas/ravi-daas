@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 B.Tech in Computer Science with a specialization in Full Stack Development<br>💻 Passionate about building mobile and web applications<br>📱 I'm currently working on [Praksha App](https://play.google.com/store/apps/details?id=com.praksha.app) a Flutter-based app with 1K+ downloads on the Play Store<br>🏆 Winner of a coding hackathon for developing a Real-Time Invoice Management System for MSMEs<br>📫 Let’s connect! I’m open to collaboration, learning, and new opportunities
+🎓 B.Tech in Computer Science with a specialization in Full Stack Development<br>💻 Passionate about building mobile and web applications<br>📱 I'm currently working on [Praksha App](https://play.google.com/store/apps/details?id=com.praksha.app) a Flutter-based app with 1K+ downloads on the Play Store<br>🏆 Winner of a coding hackathon for developing a Real-Time [Invoice Management System for MSMEs](https://github.com/ravi-daas/Invoice-Management-System-for-MSMEs)<br>📫 Let’s connect! I’m open to collaboration, learning, and new opportunities
 
 
 ## 🌐 Socials:
