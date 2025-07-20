@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on [Praksha App(Flutter)](https://play.google.com/store/apps/details?id=com.praksha.app), [Mern Stack E-commerce App](https://github.com/ravi-daas/MERN_Ecommerce-App) & Invoicing Web Projects<br>I'm looking to collaborate on Open Source 
+🎓 B.Tech in Computer Science with a specialization in Full Stack Development<br>💻 Passionate about building mobile and web applications<br>📱 I'm currently working on [Praksha App](https://play.google.com/store/apps/details?id=com.praksha.app) a Flutter-based app with 1K+ downloads on the Play Store<br>🏆 Winner of a coding hackathon for developing a Real-Time Invoice Management System for MSMEs<br>📫 Let’s connect! I’m open to collaboration, learning, and new opportunities
 
 
 ## 🌐 Socials:
